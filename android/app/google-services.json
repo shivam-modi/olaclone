@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "220526159118",
+    "project_id": "olauber-336fd",
+    "storage_bucket": "olauber-336fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220526159118:android:b7bc91fb7346a3ee31635f",
+        "android_client_info": {
+          "package_name": "com.modi.uberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220526159118-d7iq3s7p8s633ol340qtauflpib4skn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.modi.uberclone",
+            "certificate_hash": "7d3528fb89e8531d310dc50361040c7d532c1805"
+          }
+        },
+        {
+          "client_id": "220526159118-fpisidbqoss629hl5bmk3aha78nt8rod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxWS_jrk41mLFi90Mr2_0Zxrukn_MEi9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220526159118-fpisidbqoss629hl5bmk3aha78nt8rod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
